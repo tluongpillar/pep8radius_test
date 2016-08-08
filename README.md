@@ -17,5 +17,6 @@ makes diffs easier to look at):
 
 Example
 -------
+switch to branch 'add-new-sample-code' and run:
 `pep8radius master --diff --no-color | cdiff --side-by-side`
 ![pep8radius example](pep8radius_example.png)
