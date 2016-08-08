@@ -15,7 +15,7 @@ cdiff
 It can be nice to pipe the diff to [cdiff](https://pypi.python.org/pypi/cdiff) (which
 makes diffs easier to look at):
 
-example
+Example
 -------
-pep8radius master --diff --no-color | cdiff --side-by-side
+`pep8radius master --diff --no-color | cdiff --side-by-side`
 ![pep8radius example](pep8radius_example.png)
